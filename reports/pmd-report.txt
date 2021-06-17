@@ -1,0 +1,24 @@
+src/main/java/labcodeinspection/Email.java:12:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:12:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:12:	ImmutableField:	ImmutableField: Private field 'm_firstName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:12:	ImmutableField:	ImmutableField: Private field 'm_firstName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:17:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:17:	ImmutableField:	ImmutableField: Private field 'm_lastName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:17:	ImmutableField:	ImmutableField: Private field 'm_lastName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:22:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:32:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:32:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:32:	ImmutableField:	ImmutableField: Private field 'defaultpasswordLength' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:32:	ImmutableField:	ImmutableField: Private field 'defaultpasswordLength' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:62:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
+src/main/java/labcodeinspection/Email.java:62:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
+src/main/java/labcodeinspection/Email.java:90:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:90:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:90:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:90:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
